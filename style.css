@@ -1,0 +1,21 @@
+nav > ul{
+    display: flex;
+    background-color: antiquewhite;
+    justify-content: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 15px;
+    padding: 10px;
+}
+nav li:hover{
+    background-color: bisque;
+    border-radius: 15px;
+}
+nav li {
+    text-decoration: none;
+    color: rgb(28, 61, 61);
+    font-size: 20px;
+    font-weight: 700;
+       
+}
